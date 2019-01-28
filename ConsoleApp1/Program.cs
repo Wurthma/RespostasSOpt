@@ -41,6 +41,8 @@ namespace ConsoleApp1
                 adapter.SelectCommand = selectCommand;
                 DataTable Sheet = new DataTable();
                 Sheet.TableName = SheetsName[i].Replace("$", "").Replace("'", "");
+                
+                //Download to register OLEDB: https://www.microsoft.com/en-us/download/details.aspx?id=23734
                 adapter.Fill(Sheet);
 
                 var ds = new DataSet();
