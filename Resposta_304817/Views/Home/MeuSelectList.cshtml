@@ -1,0 +1,10 @@
+﻿@model Resposta_304817.Models.Exemplo
+
+@{
+    ViewBag.Title = "MeuSelectList";
+}
+
+<h2>MeuSelectList</h2>
+
+@Html.DropDownList("Lista tipo usuário", new SelectList(Model.Tipo_user, "Value", "Text", "0"))
+
