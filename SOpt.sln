@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resposta_306099", "Resposta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resposta_304817", "Resposta_304817\Resposta_304817.csproj", "{95C87475-B2F4-4599-B218-F3EF2CF34BCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resposta_358164", "ConsoleApp1\Resposta_358164.csproj", "{1F27E3C7-7169-47E9-9EE3-174AB323FB41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resposta_358164", "Resposta_358164\Resposta_358164.csproj", "{1F27E3C7-7169-47E9-9EE3-174AB323FB41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
