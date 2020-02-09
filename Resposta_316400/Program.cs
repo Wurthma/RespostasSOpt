@@ -1,11 +1,7 @@
 ﻿using Spire.Xls;
 using Spire.Doc;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Resposta_316400
 {

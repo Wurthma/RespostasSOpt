@@ -11,11 +11,5 @@ namespace Resposta_304817.Models
     {
         [DisplayName("Tipo de usuário")]
         public List<SelectListItem> Tipo_user { get; set; }
-
-        //public string Tipo_user
-        //{
-        //    get { return tipo_user; }
-        //    set { tipo_user = value; }
-        //}
     }
 }
